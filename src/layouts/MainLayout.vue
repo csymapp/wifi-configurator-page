@@ -41,14 +41,14 @@
 </template>
 
 <script>
-const axios = require('axios')
+const axios = require('axios');
 export default {
     name: 'Login',
     data() {
         return {
             username: '',
             password: '',
-            root: "http://localhost:3074",
+            root: "",
             appName: 'No Application',
             deviceName: 'anon',
             showError: {
