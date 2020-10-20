@@ -10,4 +10,4 @@ You probably need nothing here. If you are looking for WiFi Configurator, you ca
 quasar build
 ```
 
-Then move the files in /dist in /layouts folder of wifi-configurator
+Then move the files in /dist/spa in /layouts folder of wifi-configurator
